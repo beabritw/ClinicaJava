@@ -1,4 +1,4 @@
-# Sistema de Agendamento de Consultas
+ # Sistema de Agendamento de Consultas
 
 Este é um sistema simples de agendamento de consultas na linguagem Java, onde é possível cadastrar clientes, agendar, alterar, excluir consultas e gerenciar dados de clientes. O sistema também permite salvar e carregar os dados a partir de um arquivo, garantindo a persistência dos dados entre as execuções.
 
@@ -20,16 +20,12 @@ Este é um sistema simples de agendamento de consultas na linguagem Java, onde �
 ## Como Usar
 
 ### 1. Clonar o Repositório
-
-      Primeiro, clone este repositório para o seu computador local utilizando o comando:
    
       ```bash
       git clone https://github.com/beabritw/ClinicaJava.git
 
    
 ### 2. Interação com o Sistema
-
-     O sistema irá apresentar um menu onde você poderá escolher uma das opções disponíveis:
      
      **Cadastrar Cliente:** Cadastra um novo cliente no sistema.
      **Agendar Consulta:** Agenda uma nova consulta para um cliente.
@@ -50,7 +46,3 @@ Este é um sistema simples de agendamento de consultas na linguagem Java, onde �
    **SistemaDeAgendamento.java:** Contém a implementação do sistema de agendamento.
    **Cliente.java:** Contém a classe que representa um cliente.
    **Consulta.java:** Contém a classe que representa uma consulta agendada.
-
-
-## Licença
-Este projeto é licenciado sob a Licença MIT.
