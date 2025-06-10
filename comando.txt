@@ -1,0 +1,7 @@
+windows
+mvnw.cmd spring-boot:run
+
+ou
+
+linux
+./mvnw spring-boot:run
